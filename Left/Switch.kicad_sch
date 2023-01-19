@@ -93,6 +93,10 @@
           (name "" (effects (font (size 1.27 1.27))))
           (number "3" (effects (font (size 1.27 1.27))))
         )
+        (pin input line (at 1.905 1.905 270) (length 2.54)
+          (name "" (effects (font (size 1.27 1.27))))
+          (number "4" (effects (font (size 1.27 1.27))))
+        )
       )
     )
     (symbol "Library:MAX16054" (in_bom yes) (on_board yes)
@@ -321,6 +325,7 @@
     (uuid 28f5af78-c8e0-4fe2-bc13-816017f7407c)
   )
 
+  (no_connect (at 98.425 113.03) (uuid 4d2f7be6-a25e-4dfc-ad5b-396cb51bc76c))
   (no_connect (at 119.38 105.41) (uuid ab5be492-0c14-4da4-a58e-f1df67f4fa40))
   (no_connect (at 98.425 105.41) (uuid b03292b9-ce80-493a-af7d-09e2c4eba398))
 
@@ -426,10 +431,10 @@
   )
 
   (symbol (lib_id "Library:Button") (at 100.33 111.125 180) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board yes)
     (uuid 7ec7fc17-1e06-4dd3-9461-1486ac1e5697)
-    (property "Reference" "U2" (id 0) (at 98.425 113.03 0))
-    (property "Value" "Button" (id 1) (at 98.425 115.57 0))
+    (property "Reference" "U2" (id 0) (at 98.425 114.935 0))
+    (property "Value" "Button" (id 1) (at 98.425 116.205 0))
     (property "Footprint" "Library:Button" (id 2) (at 98.425 104.775 0)
       (effects (font (size 1.27 1.27)) hide)
     )
@@ -439,6 +444,7 @@
     (pin "1" (uuid 415c4335-e2d9-4a95-a885-a8519eca6bc3))
     (pin "2" (uuid bcabc37b-452d-4cff-9b10-1ba93da666bb))
     (pin "3" (uuid 6d16a918-99dc-4956-a1bc-4f88024ac0b1))
+    (pin "4" (uuid bdbb0b97-3649-4160-85a0-78f98b183243))
   )
 
   (symbol (lib_id "Library:MAX16054") (at 111.125 110.49 0) (unit 1)

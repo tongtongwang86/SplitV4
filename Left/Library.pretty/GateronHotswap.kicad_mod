@@ -1,6 +1,6 @@
 (footprint "GateronHotswap" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 63C3789F)
+  (tedit 63C7DBB4)
   (attr smd)
   (fp_text reference "REF**" (at -0.75 4.95 180 unlocked) (layer "B.SilkS") hide
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
@@ -36,7 +36,7 @@
   (fp_line (start -7.599994 6.099998) (end -7.599994 -6.100002) (layer "F.SilkS") (width 0.12) (tstamp a72b0211-01ed-437e-8ed0-dd4a1c9ad8e3))
   (fp_line (start 7.600006 6.099998) (end 7.600006 -6.100002) (layer "F.SilkS") (width 0.12) (tstamp eec362bb-bf42-4077-9c1d-e4fc7df8fa92))
   (fp_arc (start -6.099994 7.599998) (mid -7.160654 7.160658) (end -7.599994 6.099998) (layer "F.SilkS") (width 0.12) (tstamp 359cbb30-7237-49b6-842a-b3aa8d503be3))
-  (fp_arc (start 4.268833 6.675848) (mid 2.888242 7.983046) (end 1.27 6.985) (layer "F.SilkS") (width 0.3) (tstamp 9203c9b2-898b-4bd5-a1ff-7016d4a4030c))
+  (fp_arc (start 4.268833 6.675848) (mid 2.888241 7.983046) (end 1.27 6.985) (layer "F.SilkS") (width 0.3) (tstamp 9203c9b2-898b-4bd5-a1ff-7016d4a4030c))
   (fp_arc (start 6.100006 -7.600002) (mid 7.160666 -7.160662) (end 7.600006 -6.100002) (layer "F.SilkS") (width 0.12) (tstamp b41b8662-a47e-4e32-89cc-be25aca3d202))
   (fp_arc (start -3.709776 6.680624) (mid -5.585316 6.992324) (end -6.368797 5.259995) (layer "F.SilkS") (width 0.3) (tstamp b6c38b2e-9888-46e6-9835-a98e5326dddf))
   (fp_arc (start -7.599994 -6.100002) (mid -7.160654 -7.160662) (end -6.099994 -7.600002) (layer "F.SilkS") (width 0.12) (tstamp c02dec66-3347-45d6-a39c-72e292107530))
@@ -302,7 +302,7 @@
     )
   )
   (model "${KIPRJMOD}/3D/GateronHotswap v3.step"
-    (offset (xyz -6.83 -4.71 -3.65))
+    (offset (xyz -6.83 -4.71 -3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )

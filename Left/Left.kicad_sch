@@ -1634,6 +1634,60 @@
     (path "/22835b82-72b5-4a9e-beb2-1bf1991c1ab2/23cef0b6-aead-42d9-8935-e695feb97274"
       (reference "#PWR065") (unit 1) (value "GND") (footprint "")
     )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/a26dcaac-9ebd-4c74-8bad-76e9b158d624"
+      (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/18d48951-62ff-4f11-b680-c0dc9a56c58f"
+      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/e7894d41-2a58-4c0e-82e9-ef47657d72af"
+      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/eed28de2-b96e-4d1b-be6a-3bc868abbc75"
+      (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/ad4a735d-f005-45c8-87b7-6f2e57316b3f"
+      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/b95cd263-dfe4-4b5e-9018-d73f466ddf6a"
+      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/e24f0893-3fcc-45d3-b69b-d58f9cc96200"
+      (reference "#PWR0107") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/fe4f034c-6850-4040-8738-706a4bde5e74"
+      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/7890b1d3-bfcd-485a-b04e-51f429bf0ea0"
+      (reference "#PWR0109") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/b311df8d-8a14-43b6-b849-aef5aeac8a99"
+      (reference "#PWR0110") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/a3161d5b-3549-4de9-b93c-7088c8839c0f"
+      (reference "#PWR0111") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/2c0024c2-e84c-413e-ae5a-1ae05ffcb73d"
+      (reference "#PWR0112") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/489e2345-c2a8-4f2d-aa40-60344b12aaad"
+      (reference "#PWR0113") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/76e171a0-570a-4f2c-bc21-e75671db2e8b"
+      (reference "#PWR0114") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/4f1c053f-7797-4f2f-b0aa-7a50c40ea910"
+      (reference "#PWR0115") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/3601a437-79fa-42d1-9bc9-517172a9241f"
+      (reference "#PWR0116") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/d3cfad79-376e-4fd2-b246-ef4ddc83db49"
+      (reference "#PWR0117") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/51ad62ff-eee2-42c0-b109-c814d5c17d3b"
+      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
+    )
     (path "/7a5fe19b-bda9-466b-8441-050aee61d75e/bba8b992-37b8-4879-8199-6ea43eaf62f1"
       (reference "AE1") (unit 1) (value "Antenna") (footprint "Library:2.4GHz-meander-antenna-v2")
     )
