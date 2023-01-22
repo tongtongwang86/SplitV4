@@ -823,6 +823,18 @@
     (pin "1" (uuid f3b1a09b-f2d7-4350-9780-06b6a66863da))
   )
 
+  (sheet (at 208.28 73.025) (size 36.195 34.925) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 14c81335-0c58-4658-9c8b-2f95a43c42a1)
+    (property "Sheet name" "Keys" (id 0) (at 208.28 72.3134 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "keys.kicad_sch" (id 1) (at 208.28 108.5346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 96.52 59.69) (size 29.21 16.51)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -1423,6 +1435,7 @@
     (path "/2f162e21-7b12-40cd-b038-748e597ffe32" (page "18"))
     (path "/ff12d1ae-3ae9-40c8-917e-31f2acbc2f42" (page "19"))
     (path "/39b2625d-c652-4d45-ae67-10e944dd4bea" (page "19"))
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1" (page "20"))
   )
 
   (symbol_instances
@@ -1836,6 +1849,63 @@
     )
     (path "/7a5fe19b-bda9-466b-8441-050aee61d75e/b26e62e7-b80c-45eb-9719-af9623c4df6e"
       (reference "JP2") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm")
+    )
+    (path "/ff12d1ae-3ae9-40c8-917e-31f2acbc2f42/38b9ad92-1088-49ca-b5a8-49fe3e681f71"
+      (reference "JP3") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/f0b0831a-5ac3-4dfb-a113-ee428ae84636"
+      (reference "K1") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/56f6aace-1374-416f-ac40-39994b82bbbe"
+      (reference "K2") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/750bc7f4-1df3-4c07-96c5-7cdef7c5a321"
+      (reference "K3") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/2fad7aec-0ffd-46fd-9acd-c936e2a5cc5b"
+      (reference "K4") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/fa493039-3255-4a61-b1ed-f43a55e716e0"
+      (reference "K5") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/3c78dcdb-d3bc-4e64-9522-f33f1ae0fa4a"
+      (reference "K6") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/e079d81e-c9a1-46aa-b59b-de445cc4b17d"
+      (reference "K7") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/74459fe8-006e-42b5-9952-28b28f70a16a"
+      (reference "K8") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/d5ad7305-24a6-4d13-86a3-20644c20dbec"
+      (reference "K9") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/922a621e-1fc6-48d2-8453-97d07db96ac1"
+      (reference "K10") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/3c18f323-f2ec-4325-b9ae-69c3d322eee3"
+      (reference "K11") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/bbbbaf69-b079-4e3b-8cc7-d096731f19ec"
+      (reference "K12") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/66382d8e-da83-4885-95d5-bfc0e0e52f18"
+      (reference "K13") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/1caa7575-5070-40f6-a5b0-d048338741d8"
+      (reference "K14") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/cddf60bc-af1b-49a1-8dac-e99d3818aaf2"
+      (reference "K15") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/f22b6d70-1a7e-4ad7-87ee-3c4e0e9a3080"
+      (reference "K16") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/f490aed8-6059-45f8-b584-be0476ff4cea"
+      (reference "K17") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
+    )
+    (path "/14c81335-0c58-4658-9c8b-2f95a43c42a1/b6311fa4-a532-436f-b022-5e1b54092275"
+      (reference "K18") (unit 1) (value "KeyboardSwitch") (footprint "Library:GateronHotswap")
     )
     (path "/7a5fe19b-bda9-466b-8441-050aee61d75e/0dccbb95-7d81-4b48-b572-01eae6e4bf6c"
       (reference "L1") (unit 1) (value "15nH") (footprint "Inductor_SMD:L_0402_1005Metric")
