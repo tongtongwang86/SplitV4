@@ -1,0 +1,10 @@
+Default	False	2.0	3
+B+	False	2.0	3
+Data	False	2.0	3
+GND_BAT	False	2.0	3
+GND_SYS	False	2.0	3
+Switches	True	2.0	3
+VBUS	False	2.0	3
+Vbat	False	2.0	3
+nRF_VDD	False	2.0	3
+False	True	False
